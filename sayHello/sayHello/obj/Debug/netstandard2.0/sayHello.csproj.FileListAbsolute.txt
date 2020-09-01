@@ -1,0 +1,14 @@
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\bin\Debug\netstandard2.0\sayHello.deps.json
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\bin\Debug\netstandard2.0\sayHello.dll
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\bin\Debug\netstandard2.0\ref\sayHello.dll
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\bin\Debug\netstandard2.0\sayHello.pdb
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\obj\Debug\netstandard2.0\sayHello.csprojAssemblyReference.cache
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\obj\Debug\netstandard2.0\App.xaml.g.cs
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\obj\Debug\netstandard2.0\sayHello.csproj.CoreCompileInputs.cache
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\obj\Debug\netstandard2.0\sayHello.AssemblyInfoInputs.cache
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\obj\Debug\netstandard2.0\sayHello.AssemblyInfo.cs
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\obj\Debug\netstandard2.0\XamlC.stamp
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\obj\Debug\netstandard2.0\sayHello.dll
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\obj\Debug\netstandard2.0\ref\sayHello.dll
+J:\School\MobileAppDev EC\Xamarin\sayHello\sayHello\sayHello\obj\Debug\netstandard2.0\sayHello.pdb

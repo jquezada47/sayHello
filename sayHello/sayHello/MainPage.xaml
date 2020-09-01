@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="sayHello.MainPage"
+             BackgroundColor="#5898EC">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label x:Name="label1"
+           Text="" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           TextColor="#ff8c69"
+           FontSize="30"
+               />
+        <Entry x:Name="entry"
+           Placeholder="Enter your name!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           TextColor="#ff8c69"
+           FontSize="30"
+               
+               />
+        
+        <Button Text="Click Me" Clicked="Handle_Clicked" />
+    </StackLayout>
+
+</ContentPage>
